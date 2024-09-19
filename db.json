@@ -1,0 +1,99 @@
+{
+  "videos": [
+    {
+      "title": "Ishq",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlSeZc8VYe71nh3iQFUfSjMWtrgc762pAWjQ&s",
+      "videoUrl": "https://www.youtube.com/embed/hHuG7FIKgtc?si=D6h58DLDExlgZK42&autoplay=1",
+      "id": 1
+    },
+    {
+      "title": "Tera mera hai ",
+      "imageUrl": "https://i.ytimg.com/vi/dXiAlCvnOT0/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/dXiAlCvnOT0?si=D6h58DLDExlgZK42&autoplay=1",
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "category": "Music Videos",
+      "videos": [
+        {
+          "title": "Tera mera hai ",
+          "imageUrl": "https://i.ytimg.com/vi/dXiAlCvnOT0/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/dXiAlCvnOT0?si=D6h58DLDExlgZK42&autoplay=1",
+          "id": 2
+        },
+        {
+          "title": "Ishq",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlSeZc8VYe71nh3iQFUfSjMWtrgc762pAWjQ&s",
+          "videoUrl": "https://www.youtube.com/embed/hHuG7FIKgtc?si=D6h58DLDExlgZK42&autoplay=1",
+          "id": 1
+        }
+      ],
+      "id": 1
+    },
+    {
+      "category": "Trailers",
+      "videos": [],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "vid": 1,
+      "title": "Ishq",
+      "url": "https://www.youtube.com/embed/hHuG7FIKgtc?si=D6h58DLDExlgZK42&autoplay=1",
+      "date": "2024-09-18T10:49:43.192Z",
+      "id": 3
+    },
+    {
+      "vid": 1,
+      "title": "Ishq",
+      "url": "https://www.youtube.com/embed/hHuG7FIKgtc?si=D6h58DLDExlgZK42&autoplay=1",
+      "date": "2024-09-18T11:23:49.213Z",
+      "id": 4
+    },
+    {
+      "vid": 1,
+      "title": "Ishq",
+      "url": "https://www.youtube.com/embed/hHuG7FIKgtc?si=D6h58DLDExlgZK42&autoplay=1",
+      "date": "2024-09-19T10:17:31.158Z",
+      "id": 5
+    },
+    {
+      "vid": 2,
+      "title": "Tera mera hai ",
+      "url": "https://www.youtube.com/embed/dXiAlCvnOT0?si=D6h58DLDExlgZK42&autoplay=1",
+      "date": "2024-09-19T10:25:24.679Z",
+      "id": 6
+    },
+    {
+      "vid": 2,
+      "title": "Tera mera hai ",
+      "url": "https://www.youtube.com/embed/dXiAlCvnOT0?si=D6h58DLDExlgZK42&autoplay=1",
+      "date": "2024-09-19T11:04:21.653Z",
+      "id": 7
+    },
+    {
+      "vid": 1,
+      "title": "Ishq",
+      "url": "https://www.youtube.com/embed/hHuG7FIKgtc?si=D6h58DLDExlgZK42&autoplay=1",
+      "date": "2024-09-19T11:05:34.015Z",
+      "id": 8
+    },
+    {
+      "vid": 1,
+      "title": "Ishq",
+      "url": "https://www.youtube.com/embed/hHuG7FIKgtc?si=D6h58DLDExlgZK42&autoplay=1",
+      "date": "2024-09-19T11:05:55.813Z",
+      "id": 9
+    },
+    {
+      "vid": 2,
+      "title": "Tera mera hai ",
+      "url": "https://www.youtube.com/embed/dXiAlCvnOT0?si=D6h58DLDExlgZK42&autoplay=1",
+      "date": "2024-09-19T11:14:07.896Z",
+      "id": 10
+    }
+  ]
+}
